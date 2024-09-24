@@ -97,7 +97,7 @@ The dashboard requires several visualizations to help monitor the metrics mentio
 
 ## Dashboard Visualization
 
-![Car Sales Dashboard](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a39d22f2-eff5-400d-b99d-7c5f2efcc165)
+![Car Sales Dashboard](https://github.com/suhaib-codes/Car-Sales-Analysis-Dashboard/blob/main/Project.pbix)
 
 This interactive dashboard empowers stakeholders to drill into the data, identify patterns, and optimize sales strategies accordingly.
 
